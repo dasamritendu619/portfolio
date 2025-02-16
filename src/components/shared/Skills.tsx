@@ -23,7 +23,7 @@ const skills = [
         color:"#fa00e1",
     },
     {
-        text:"React",
+        text:"C",
         value:40,
         color:"#edfa00",
     },

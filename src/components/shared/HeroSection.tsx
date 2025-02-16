@@ -30,7 +30,7 @@ export default function HeroSection() {
               </p>
               <WordRotate
                 className="text-lg min-[500px]:text-xl lg:text-2xl text-pink-600 font-bold"
-                words={["Web Devoloper"," UI Designer","P.C. Maintenance"]}
+                words={["Web Developer"," UI Designer","P.C. Maintenance"]}
               />
             </div>
 

@@ -10,21 +10,21 @@ const projects = [
   {
     title:"Hospital Management System",
     description:"A simple hospital management system where patients can book appointments with doctors",
-    image:"/WhatsApp Image 2024-08-29 at 3.36.47 PM.jpeg",
+    image:"/WhatsApp Image 2024-08-29 at 3.36.50 PM.jpeg",
     link:"https://github.com/dasamritendu619",
     github:"https://github.com/dasamritendu619"
   },
   {
     title:"Share Learner",
     description:"A online learning platform where students can share their knowledge.",
-    image:"/WhatsApp Image 2024-08-29 at 3.36.48 PM.jpeg",
+    image:"/WhatsApp Image 2024-08-29 at 3.36.50 PM.jpeg",
     link:"https://github.com/dasamritendu619",
     github:"https://github.com/dasamritendu619"
   },
   {
     title:"Connectify",
     description:"A online learning platform where students can share their knowledge.",
-    image:"/WhatsApp Image 2024-08-29 at 3.36.49 PM.jpeg",
+    image:"/WhatsApp Image 2024-08-29 at 3.36.50 PM.jpeg",
     link:"https://github.com/dasamritendu619",
     github:"https://github.com/dasamritendu619"
   },

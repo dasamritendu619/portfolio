@@ -94,7 +94,7 @@ function Footer() {
             <p>Phone:+91 8116926300</p>
           </div>
           </div>
-          <p className="text-center text-xs pt-8">© 2024 amritendu.tech. All rights reserved.</p>
+          <p className="text-center text-xs pt-8">© 2024-2025 amritendu.tech. All rights reserved.</p>
       </footer>
     )
   }
