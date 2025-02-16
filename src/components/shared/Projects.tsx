@@ -9,7 +9,7 @@ import { IconBrandGithub } from '@tabler/icons-react';
 const projects = [
   {
     title:"Hospital Management System",
-    description:"A simple hospital management system where patients can book appointments with doctors",
+    description:"A simple hospital management system where patients can book appointments with doctors.",
     image:"/WhatsApp Image 2024-08-29 at 3.36.50 PM.jpeg",
     link:"https://github.com/dasamritendu619",
     github:"https://github.com/dasamritendu619"
@@ -18,7 +18,7 @@ const projects = [
     title:"Share Learner",
     description:"A online learning platform where students can share their knowledge.",
     image:"/WhatsApp Image 2024-08-29 at 3.36.50 PM.jpeg",
-    link:"https://github.com/dasamritendu619",
+    link:"https://sharelearner.vercel.app/",
     github:"https://github.com/dasamritendu619"
   },
   {
@@ -30,14 +30,14 @@ const projects = [
   },
   {
     title:"Form Validation",
-    description:"To ensures that user input is accurate, complete and meets specific requirements before submission",
+    description:"To ensures that user input is accurate, complete and meets specific requirements before submission.",
     image:"/WhatsApp Image 2024-08-29 at 3.36.50 PM.jpeg",
     link:"https://github.com/dasamritendu619",
     github:"https://github.com/dasamritendu619"
   },
   {
   title:"Online Calculator",
-  description:"Developing a Calculator after learning basic of HTML, CSS, JavaScript to understand the core concept and implement it to make something useful",
+  description:"Developing a Calculator after learning basic of HTML, CSS, JavaScript to understand the core concept and implement it to make something useful.",
   image:"/WhatsApp Image 2024-08-29 at 3.36.50 PM.jpeg",
   link:"https://github.com/dasamritendu619",
   github:"https://github.com/dasamritendu619"
