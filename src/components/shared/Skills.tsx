@@ -24,7 +24,7 @@ const skills = [
     },
     {
         text:"C",
-        value:40,
+        value:80,
         color:"#edfa00",
     },
     {
