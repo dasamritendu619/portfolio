@@ -11,7 +11,7 @@ export default function Education() {
           <p className="text-neutral-800 dark:text-neutral-200 text-xs md:text-sm xl:text-lg font-normal mb-8">
             I am currently pursuing  in my B.Tech in Computer Science & Engineering from College of Engineering & Management, Kolaghat under MAKAUT, WB. 
             <br />
-            I got 8.10 CGPA upto 6th semester in 2024.
+            I got 8.16 CGPA upto 7th semester in 2025.
           </p>
           <div className="grid grid-cols-2 gap-4">
             
