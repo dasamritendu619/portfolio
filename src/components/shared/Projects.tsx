@@ -17,7 +17,7 @@ const projects = [
   {
     title:"Share Learner",
     description:"A online learning platform where students can share their knowledge.",
-    image:"/WhatsApp Image 2024-08-29 at 3.36.50 PM.jpeg",
+    image:"/public/Screenshot (15).png",
     link:"https://sharelearner.vercel.app/",
     github:"https://github.com/dasamritendu619"
   },
