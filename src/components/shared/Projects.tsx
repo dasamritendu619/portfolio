@@ -24,7 +24,7 @@ const projects = [
   {
     title:"Connectify",
     description:"A online learning platform where students can share their knowledge.",
-    image:"/WhatsApp Image 2024-08-29 at 3.36.50 PM.jpeg",
+    image:"/Screenshot (18).png",
     link:"https://github.com/dasamritendu619",
     github:"https://github.com/dasamritendu619"
   },
