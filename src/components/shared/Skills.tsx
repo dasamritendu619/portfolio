@@ -63,7 +63,7 @@ const skills = [
         color: "#fa0047",
     },
     {
-        text: "PowerPoint",
+        text: "Powerpnt",
         value: 95,
         color: "#fa0047",
     },

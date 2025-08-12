@@ -30,14 +30,14 @@ export default function HeroSection() {
               </p>
               <WordRotate
                 className="text-lg min-[500px]:text-xl lg:text-2xl text-pink-600 font-bold"
-                words={["Web Developer"," UI Designer","P.C. Maintenance"]}
+                words={["Web Developer", " UI Designer", "P.C. Maintenance", "Data Entry", "Technical Support"]}
               />
             </div>
 
             <TextGenerateEffect className="text-sm" words={words} />
-            
-            <Button text="Download Resume" 
-            className="py-3 px-5 font-semibold block mx-auto mt-8 xl:mt-14" />
+
+            <Button text="Download Resume"
+              className="py-3 px-5 font-semibold block mx-auto mt-8 xl:mt-14" />
           </div>
         </div>
 
