@@ -12,27 +12,27 @@ const projects = [
     description: "A online learning platform where students can share their knowledge.",
     image: "/Screenshot (15).png",
     link: "https://sharelearner.vercel.app/",
-    github: "https://sharelearner.vercel.app/"
+    github: "https://github.com/dasamritendu619"
   },
   {
     title: "Connectify",
-    description: "A online learning platform where students can share their knowledge.",
+    description: "A online learning platform where students can share their knowledge. This in our Final Year Project of B.Tech Degree.",
     image: "/Screenshot (18).png",
-    link: "https://github.com/dasamritendu619",
-    github: "https://connectify-client-steel.vercel.app/about-us"
+    link: "https://connectify-client-steel.vercel.app/about-us",
+    github: "https://github.com/dasamritendu619"
   },
   {
     title: "Form Validation",
     description: "To ensures that user input is accurate, complete and meets specific requirements before submission.",
     image: "/form.jpg",
-    link: "https://github.com/dasamritendu619",
+    link: "https://github.com/dasamritendu619/form-validation",
     github: "https://github.com/dasamritendu619"
   },
   {
     title: "Online Calculator",
     description: "Developing a Calculator after learning basic of HTML, CSS, JavaScript to understand the core concept and implement it to make something useful.",
     image: "/calculator.jpg",
-    link: "https://github.com/dasamritendu619",
+    link: "https://github.com/dasamritendu619/calculator",
     github: "https://github.com/dasamritendu619"
   }
 ];
