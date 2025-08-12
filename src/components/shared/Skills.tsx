@@ -8,44 +8,64 @@ import AnimatedCircularProgressBar from "@/components/magicui/animated-circular-
 
 const skills = [
     {
-        text:"HTML",
-        value:90,
-        color:"rgb(79 70 229)",
+        text: "HTML",
+        value: 90,
+        color: "rgb(79 70 229)",
     },
     {
-        text:"CSS",
-        value:50,
-        color:"#00fa43",
+        text: "CSS",
+        value: 80,
+        color: "#00fa43",
     },
     {
-        text:"JS",
-        value:60,
-        color:"#fa00e1",
+        text: "JS",
+        value: 80,
+        color: "#fa00e1",
     },
     {
-        text:"C",
-        value:80,
-        color:"#edfa00",
+        text: "C",
+        value: 80,
+        color: "#edfa00",
     },
     {
-        text:"Node.js",
-        value:40,
-        color:"#fa4300",
+        text: "Node.js",
+        value: 70,
+        color: "#fa4300",
     },
     {
-        text:"Express",
-        value:30,
-        color:"#00fae9",
+        text: "Express",
+        value: 70,
+        color: "#00fae9",
     },
     {
-        text:"MongoDB",
-        value:80,
-        color:"#00fa5c",
+        text: "MongoDB",
+        value: 85,
+        color: "#00fa5c",
     },
     {
-        text:"Excel",
-        value:90,
-        color:"#fa0047",
+        text: "DSA",
+        value: 80,
+        color: "#fa00c3",
+    },
+    {
+        text: "React",
+        value: 50,
+        color: "#00fa82",
+    },
+    {
+        text: "SQL",
+        value: 75,
+        color: "#00fae9"
+    },
+    {
+        text: "Excel",
+        value: 95,
+        color: "#fa0047",
+    },
+    {
+        text: "PowerPoint",
+        value: 95,
+        color: "#fa0047",
     },
 ]
 
@@ -109,16 +129,16 @@ export default function Skills() {
                 <div className="w-full md:w-[50%] flex flex-wrap justify-center items-center">
                     {
                         skills.map((skill, index) => (
-                                <AnimatedCircularProgressBar 
-                                    key={index}
-                                    max={100}
-                                    className="mx-4 my-6 size-24 text-sm"
-                                    min={0}
-                                    value={skill.value}
-                                    gaugePrimaryColor={skill.color}
-                                    gaugeSecondaryColor="rgba(0, 0, 0, 0.1)"
-                                    text={skill.text}
-                                />
+                            <AnimatedCircularProgressBar
+                                key={index}
+                                max={100}
+                                className="mx-4 my-6 size-24 text-sm"
+                                min={0}
+                                value={skill.value}
+                                gaugePrimaryColor={skill.color}
+                                gaugeSecondaryColor="rgba(0, 0, 0, 0.1)"
+                                text={skill.text}
+                            />
                         ))
                     }
                 </div>
